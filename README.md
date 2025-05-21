@@ -12,6 +12,15 @@ Inspiré du site "Vie de Merde", il permet aux étudiants de partager des anecdo
 - Ahmed Yassine Malouche  
 - Vladimir Liger
 
+## 🎯 Objectif du projet
+
+Développer un site dynamique en **PHP**, **MySQL** et **Bootstrap** permettant aux utilisateurs :
+- de publier des anecdotes ("VdECE")
+- de les consulter
+- de commenter
+- de naviguer avec une pagination
+- de publier des commentaires sans recharger la page (AJAX)
+
 ## 🔧 Technologies
 
 - PHP (sans framework)
